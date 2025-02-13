@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Documents\aaaaa\s2\c#\TPS\TP3\obj\Debug\net8.0\TP5.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\aaaaa\s2\c#\TPS\TP3\obj\Debug\net8.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documents\aaaaa\s2\c#\TPS\TP3\obj\Debug\net8.0\TP5.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documents\aaaaa\s2\c#\TPS\TP3\obj\Debug\net8.0\TP5.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documents\aaaaa\s2\c#\TPS\TP3\obj\Debug\net8.0\TP5.csproj.CoreCompileInputs.cache

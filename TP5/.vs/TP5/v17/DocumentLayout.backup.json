@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F83FD97-D648-4366-95C7-90B927A248D5}|TP3.csproj|c:\\users\\hp\\onedrive\\documents\\aaaaa\\s2\\c#\\tps\\tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F83FD97-D648-4366-95C7-90B927A248D5}|TP3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F83FD97-D648-4366-95C7-90B927A248D5}|TP5.csproj|c:\\users\\hp\\onedrive\\documents\\aaaaa\\s2\\c#\\tps\\tp3\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F83FD97-D648-4366-95C7-90B927A248D5}|TP5.csproj|solutionrelative:comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F83FD97-D648-4366-95C7-90B927A248D5}|TP5.csproj|c:\\users\\hp\\onedrive\\documents\\aaaaa\\s2\\c#\\tps\\tp3\\tp5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F83FD97-D648-4366-95C7-90B927A248D5}|TP5.csproj|solutionrelative:tp5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\CompteBancaire.cs",
+              "RelativeToolTip": "CompteBancaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:13:00.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TP5.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\TP5.csproj",
+              "RelativeDocumentMoniker": "TP5.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\TP5.csproj",
+              "RelativeToolTip": "TP5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T13:59:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\aaaaa\\s2\\c#\\TPS\\TP3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:53:02.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
