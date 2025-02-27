@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD817-876B-44BC-9F5E-1BB91BDE9C45}|..\\TP2\\TP2.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD817-876B-44BC-9F5E-1BB91BDE9C45}|..\\TP2\\TP2.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp2\\biblio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD817-876B-44BC-9F5E-1BB91BDE9C45}|..\\TP2\\TP2.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp2\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD817-876B-44BC-9F5E-1BB91BDE9C45}|..\\TP2\\TP2.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp2\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFAD817-876B-44BC-9F5E-1BB91BDE9C45}|..\\TP2\\TP2.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp2\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp1\\directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|solutionrelative:directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|c:\\users\\hp\\documents\\a\\s2\\c#\\tps\\s\u00E9rie_2\\tp1\\gestionemployes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46ACBE5F-56D5-498A-83CB-F3BC694724F3}|TP1.csproj|solutionrelative:gestionemployes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblio.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Biblio.cs",
+              "RelativeDocumentMoniker": "..\\TP2\\Biblio.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Biblio.cs",
+              "RelativeToolTip": "..\\TP2\\Biblio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:31:40.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "..\\TP2\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Dictionnaire.cs",
+              "RelativeToolTip": "..\\TP2\\Dictionnaire.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:30:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Livre.cs",
+              "RelativeDocumentMoniker": "..\\TP2\\Livre.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Livre.cs",
+              "RelativeToolTip": "..\\TP2\\Livre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:29:40.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Document.cs",
+              "RelativeDocumentMoniker": "..\\TP2\\Document.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Document.cs",
+              "RelativeToolTip": "..\\TP2\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:28:08.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TP2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP2\\Program.cs",
+              "RelativeToolTip": "..\\TP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:27:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Directeur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\Directeur.cs",
+              "RelativeDocumentMoniker": "Directeur.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\Directeur.cs",
+              "RelativeToolTip": "Directeur.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:24:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:19:57.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionEmployes.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\GestionEmployes.cs",
+              "RelativeDocumentMoniker": "GestionEmployes.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\GestionEmployes.cs",
+              "RelativeToolTip": "GestionEmployes.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:22:33.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\a\\s2\\c#\\TPS\\S\u00E9rie_2\\TP1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:21:08.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
