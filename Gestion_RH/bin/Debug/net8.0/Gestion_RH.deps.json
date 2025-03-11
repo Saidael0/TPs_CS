@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gestion_RH/1.0.0": {
+        "runtime": {
+          "Gestion_RH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestion_RH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
